@@ -1,0 +1,6 @@
+@opensystem_api_HostAddress = http://localhost:5283
+
+GET {{opensystem_api_HostAddress}}/
+Accept: application/json
+
+###
